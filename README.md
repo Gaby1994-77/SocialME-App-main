@@ -1,3 +1,10 @@
+
+PS: error on login 
+==> cannot read property 'isConfigured' of undefiend
+to solve error use the following command : npm start -- --reset-cache
+
+***********
+
 Here's a summary of my Social Media Simulation App:
 
 Redux Setup:
