@@ -4,6 +4,8 @@ PS: error on login
 to solve error use the following command : npm start -- --reset-cache
 
 ***********
+profiling : 'src/profiling'
+***********
 
 Here's a summary of my Social Media Simulation App:
 
